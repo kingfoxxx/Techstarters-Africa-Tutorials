@@ -11,13 +11,13 @@ This repo includes SQL scripts, notebooks, and example datasets focused on:
 ✅ Data manipulation (INSERT, UPDATE, DELETE)
 ✅ Real-world problem-solving with analytics use cases
 
-⚙️ Tools & Tech
+Tools & Tech
 MySQL – Core SQL learning and exercises
 Google Cloud Platform (GCP) – Background in BigQuery, Dataflow, and cloud-based pipelines
 Python & Jupyter Notebooks – For integrating SQL with data analysis
 GitHub – Version-controlled SQL labs and projects
 
-🧠 Why This Project?
+Why This Project?
 As someone passionate about solving business and social challenges through data, learning MySQL enhances my ability to work with structured data at scale—whether in traditional RDBMS systems or hybrid cloud environments.
 
 Use Cases Explored
