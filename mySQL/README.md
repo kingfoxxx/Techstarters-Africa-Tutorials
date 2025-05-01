@@ -1,7 +1,7 @@
 MySQL Learning Journey
 Welcome to my MySQL learning repository, where I explore the core concepts and practical applications of SQL using MySQL. As a Data Analyst and Data Engineer with a foundation in software engineering and cloud data technologies (GCP), I’m expanding my on-premises and cloud-based data skills by mastering relational databases and query optimization through structured hands-on practice.
 
-🔍 What You'll Find Here
+What You'll Find Here
 This repo includes SQL scripts, notebooks, and example datasets focused on:
 ✅ Data querying and filtering (SELECT, WHERE, ORDER BY)
 ✅ Aggregation and grouping (GROUP BY, HAVING, aggregate functions)
