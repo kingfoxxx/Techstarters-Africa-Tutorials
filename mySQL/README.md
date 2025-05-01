@@ -19,7 +19,8 @@ GitHub – Version-controlled SQL labs and projects
 
 🧠 Why This Project?
 As someone passionate about solving business and social challenges through data, learning MySQL enhances my ability to work with structured data at scale—whether in traditional RDBMS systems or hybrid cloud environments.
-📈 Use Cases Explored
+
+Use Cases Explored
 Rolling totals and trend analysis
 Salary band analysis with window functions
 Data cleaning and preparation via SQL
