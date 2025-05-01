@@ -26,5 +26,5 @@ Data cleaning and preparation via SQL
 Subquery vs Join comparisons
 Building reusable query logic for dashboards and reporting
 
-🚀 About Me
+About Me
 I'm Bright Rikin, a certified Data Analyst and Software Engineer with growing experience in data engineering, market analysis, and cloud analytics. I'm passionate about creating reliable, scalable data solutions and using SQL as a tool for discovery, insight, and impact.
