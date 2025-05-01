@@ -14,23 +14,16 @@ This repo includes SQL scripts, notebooks, and example datasets focused on:
 ⚙️ Tools & Tech
 MySQL – Core SQL learning and exercises
 Google Cloud Platform (GCP) – Background in BigQuery, Dataflow, and cloud-based pipelines
-
 Python & Jupyter Notebooks – For integrating SQL with data analysis
-
 GitHub – Version-controlled SQL labs and projects
 
 🧠 Why This Project?
 As someone passionate about solving business and social challenges through data, learning MySQL enhances my ability to work with structured data at scale—whether in traditional RDBMS systems or hybrid cloud environments.
-
 📈 Use Cases Explored
 Rolling totals and trend analysis
-
 Salary band analysis with window functions
-
 Data cleaning and preparation via SQL
-
 Subquery vs Join comparisons
-
 Building reusable query logic for dashboards and reporting
 
 🚀 About Me
